@@ -1,3 +1,7 @@
 .fa-brands {
     line-height: 1.6;
 }
+
+.nav-link.active {
+    color:blue !important;
+ }
